@@ -1,5 +1,5 @@
 # Alhadera
-I'm proud to present my graduation project: an app I built using Flutter and Firebase. The app is a student portal that has many useful features for college students.
+I'm proud to present my graduation project: an app I built using Flutter and Firebase. The app is a student portal with many useful features for college students.
 
 ![](alhadera.png)
 
