@@ -2,7 +2,7 @@
 
 A Flutter Mobile app showcasing my creative coding skills
 
-**Download the APK: [Alhadera.apk](https://drive.google.com/file/d/1M35vmAu-Wj4eLB2bk7YtpXMicwuvujIm/view?usp=drive_link)**
+**Download the APK : [Alhadera.apk](https://drive.google.com/file/d/1M35vmAu-Wj4eLB2bk7YtpXMicwuvujIm/view?usp=drive_link)**
 
 ![](alhadera.png)
 
